@@ -17,6 +17,11 @@ CycleGAN is a type of GAN that can learn to translate images from one domain to 
 2. Use `Inference.ipynb` to Convert them
 
 
+## Examples
+
+![Untitled](https://github.com/EswarDivi/ColorizeMe/assets/76403422/dd29dc60-232a-48a9-a43c-731fddf6368a)
+
+
 ## Acknowledgments
 
 Special thanks to the developers of CycleGAN and the TensorFlow community for their invaluable contributions.
